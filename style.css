@@ -1,0 +1,47 @@
+.header__title {
+  text-align: center;
+  color: #008080;
+   text-shadow: 2px 2px 4px #483D8B;
+}
+.reg-form{
+  text-align: right;
+}
+ 
+.reg-form__text{
+ font-style: oblique;
+ color: #20B2AA;
+}
+
+.reg-form__button{
+  background-color: #66CDAA;
+  text-transform: uppercase;
+  font-style: oblique;
+}
+
+.main__title{
+  text-align: center;
+  color: #008B8B;
+}
+
+.main__img{
+    margin-left: auto;
+    margin-right: auto;
+  width: 800px;
+  height: 500px;
+}
+
+.view-form__button{
+  background-color: #66CDAA;
+  text-transform: uppercase;
+  font-style: oblique;
+}
+
+.footer__title{
+  color: #008B8B;
+}
+
+.lang-form__button{
+  background-color: #66CDAA;
+  text-transform: uppercase;
+  font-style: oblique;
+}
